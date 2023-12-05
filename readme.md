@@ -19,7 +19,7 @@ Hunter::emailFinder()->company('Ghost')->name('John Doe')->get();
 
 ## Installation
 
-> Requires Laravel 10+ and PHP 8.2+
+> Requires Laravel 9+ and PHP 8.2+
 
 You can install the package via composer:
 
